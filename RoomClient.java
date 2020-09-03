@@ -2,7 +2,7 @@
 Name: Nazar Kabylov
 CptS 233: MicroAssignment #1
 Date: 09/04/2020
-gitRepo url: 
+gitRepo url: https://github.com/NazKab/MA1
 */
 
 
